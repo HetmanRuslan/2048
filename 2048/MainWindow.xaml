@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2048"
         mc:Ignorable="d"
-        Title="2048" Height="450" Width="448.056">
+        Title="2048" Height="486.111" Width="448.056">
 
     <Window.Resources>
         <DataTemplate x:Key="DataTemplate_Level2">
